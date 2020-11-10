@@ -16,4 +16,6 @@
 
 - 세종시 선정 이유
 
-<img src = "https://github.com/YOONSOOJINSOOJIN/ML_data_project/issues/1#issue-739544971" width = "120%"></img>
+<img src = "https://user-images.githubusercontent.com/18055781/98625421-eae37e00-2352-11eb-82b9-661eb2001672.jpg" width = "60%"></img>
+
+전국에서 세종시의 전세 수급 지수가 제일 높아 공급량 부족이 심각한 문제가 있고 이에 따라 매매 및 전세 가격이 상승하는 지역이었기 때문에 세종시를 선정하게 되었습니다. 
