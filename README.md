@@ -183,6 +183,6 @@ https://file:///Users/yunsujin/Desktop/%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8D%E1%8
 
 
 
-
+진짜다중회귀예측값.htm
 
 
