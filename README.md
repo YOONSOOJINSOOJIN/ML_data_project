@@ -148,6 +148,7 @@ Lasso 회귀 모형 중요도 분석 결과,
 <img src = "https://user-images.githubusercontent.com/18055781/98631263-626bda00-2360-11eb-9fa4-c09470a42828.png" width = "80%"></img>
 
 ### 결과
+* folium을 활용해 세종시 지도와 아파트들의 좌표로 예측 값을 보기 쉽게 구현했습니다. 
 
 : 각 지역에 관한 가상의 dataset(180개)를 바탕으로 각 머신러닝 모델에 적용해 예측값을 지도에 나타난 결과입니다. 
 
