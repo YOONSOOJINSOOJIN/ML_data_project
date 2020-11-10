@@ -16,3 +16,4 @@
 
 - 세종시 선정 이유
 
+<img src = "https://github.com/YOONSOOJINSOOJIN/ML_data_project/issues/1#issue-739544971" width = "120%"></img>
