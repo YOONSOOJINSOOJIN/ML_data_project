@@ -158,21 +158,16 @@ Lasso 회귀 모형 중요도 분석 결과,
 세종시 전세 값이 가장 높게 오를 것이라 예측되는 결과를 얻을 수 있었습니다. 
 
 #### 다중 선형 회귀 분석 모델의 예측 값
-<a href = "진짜다중회귀예측값.html"> link </a>
-
-
-
-
-
+<img src = "https://user-images.githubusercontent.com/18055781/98636781-d9a66b80-236a-11eb-8d67-3efda9a9e2ce.png" width="80%"></img>
 
 
 #### 의사 결정 나무 모델의 예측 값
-https://file:///Users/yunsujin/Desktop/%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8D%E1%85%A1%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%E1%84%80%E1%85%A1%E1%86%B9/%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8D%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%E1%84%80%E1%85%A1%E1%86%B9.html
+<img src = "https://user-images.githubusercontent.com/18055781/98636829-eb880e80-236a-11eb-84f9-20f39cfeece4.png" width="80%"></img>
 
 
 #### XGboost 모델의 예측 값
+<img src = "https://user-images.githubusercontent.com/18055781/98636879-ffcc0b80-236a-11eb-9000-994338919f0e.png" width="80%"></img>
 
-https://file:///Users/yunsujin/Desktop/%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8D%E1%85%A1%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%E1%84%80%E1%85%A1%E1%86%B9/%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8D%E1%85%A1xgb%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%E1%84%80%E1%85%A1%E1%86%B9.html
 
 
 --------------------------------------------
