@@ -17,8 +17,6 @@
 
 - 세종시 선정 이유
 
-<img src = "https://user-images.githubusercontent.com/18055781/98625421-eae37e00-2352-11eb-82b9-661eb2001672.jpg" width = "50%"></img>
-
 <img src = "https://user-images.githubusercontent.com/18055781/98625737-8e349300-2353-11eb-8f85-5bdbe772abc7.jpg" width = "50%></img>
 
 전국에서 세종시의 전세 수급 지수가 제일 높아 공급량 부족이 심각한 문제가 있고
